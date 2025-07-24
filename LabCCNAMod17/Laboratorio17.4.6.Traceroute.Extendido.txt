@@ -1,0 +1,35 @@
+------------------------------------------------------------traceroute_d_lacnic------------------------------------------------------------
+
+
+Traza a la direcci n www.lacnic.net [200.3.14.145]
+sobre un m ximo de 30 saltos:
+
+  1     4 ms    14 ms    22 ms  192.168.7.18 
+  2   208 ms    26 ms   287 ms  10.69.0.129 
+  3  10.179.195.13  informes: Red de destino inaccesible.
+
+Traza completa.
+
+
+------------------------------------------------------------traceroute_d_afrinic------------------------------------------------------------
+
+Traza a la direcci¢n www.afrinic.net [196.216.3.4]
+sobre un m ximo de 30 saltos:
+
+  1    45 ms    15 ms     4 ms  192.168.7.18 
+  2    29 ms   234 ms   235 ms  10.69.0.129 
+  3  10.179.194.13  informes: Red de destino inaccesible.
+
+Traza completa.
+
+
+------------------------------------------------------------traceroute_d_apnic------------------------------------------------------------
+
+Traza a la direcci¢n www.apnic.net.cdn.cloudflare.net [104.18.235.68]
+sobre un m ximo de 30 saltos:
+
+  1    12 ms    12 ms     4 ms  192.168.7.18 
+  2   107 ms   251 ms    45 ms  10.69.0.129 
+  3  10.179.194.13  informes: Red de destino inaccesible.
+
+Traza completa.
