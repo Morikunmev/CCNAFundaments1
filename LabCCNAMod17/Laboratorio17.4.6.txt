@@ -1,1 +1,110 @@
+--------------------lacnic.txt--------------------
+Haciendo ping a www.lacnic.net [200.3.14.145] con 32 bytes de datos:
+Respuesta desde 200.3.14.145: bytes=32 tiempo=145ms TTL=49
+Respuesta desde 200.3.14.145: bytes=32 tiempo=138ms TTL=49
+Respuesta desde 200.3.14.145: bytes=32 tiempo=144ms TTL=49
+Respuesta desde 200.3.14.145: bytes=32 tiempo=113ms TTL=49
+Respuesta desde 200.3.14.145: bytes=32 tiempo=122ms TTL=49
+Respuesta desde 200.3.14.145: bytes=32 tiempo=118ms TTL=49
+Respuesta desde 200.3.14.145: bytes=32 tiempo=127ms TTL=49
+Respuesta desde 200.3.14.145: bytes=32 tiempo=120ms TTL=49
+Respuesta desde 200.3.14.145: bytes=32 tiempo=124ms TTL=49
+Respuesta desde 200.3.14.145: bytes=32 tiempo=145ms TTL=49
+Respuesta desde 200.3.14.145: bytes=32 tiempo=117ms TTL=49
+Respuesta desde 200.3.14.145: bytes=32 tiempo=115ms TTL=49
+Respuesta desde 200.3.14.145: bytes=32 tiempo=131ms TTL=49
+Respuesta desde 200.3.14.145: bytes=32 tiempo=121ms TTL=49
+Respuesta desde 200.3.14.145: bytes=32 tiempo=114ms TTL=49
+Respuesta desde 200.3.14.145: bytes=32 tiempo=131ms TTL=49
+Respuesta desde 200.3.14.145: bytes=32 tiempo=121ms TTL=49
+Respuesta desde 200.3.14.145: bytes=32 tiempo=114ms TTL=49
+Respuesta desde 200.3.14.145: bytes=32 tiempo=137ms TTL=49
+Respuesta desde 200.3.14.145: bytes=32 tiempo=126ms TTL=49
+Respuesta desde 200.3.14.145: bytes=32 tiempo=115ms TTL=49
+Respuesta desde 200.3.14.145: bytes=32 tiempo=114ms TTL=49
+Respuesta desde 200.3.14.145: bytes=32 tiempo=136ms TTL=49
+Respuesta desde 200.3.14.145: bytes=32 tiempo=137ms TTL=49
+Respuesta desde 200.3.14.145: bytes=32 tiempo=138ms TTL=49
+
+Estad sticas de ping para 200.3.14.145:
+    Paquetes: enviados = 25, recibidos = 25, perdidos = 0
+    (0% perdidos),
+Tiempos aproximados de ida y vuelta en milisegundos:
+    M nimo = 113ms, M ximo = 145ms, Media = 126ms
+
+
+
+
+--------------------afrinic.txt--------------------
+Haciendo ping a www.afrinic.net [196.216.3.4] con 32 bytes de datos:
+Respuesta desde 196.216.3.4: bytes=32 tiempo=470ms TTL=42
+Respuesta desde 196.216.3.4: bytes=32 tiempo=480ms TTL=42
+Respuesta desde 196.216.3.4: bytes=32 tiempo=497ms TTL=42
+Respuesta desde 196.216.3.4: bytes=32 tiempo=466ms TTL=42
+Respuesta desde 196.216.3.4: bytes=32 tiempo=466ms TTL=42
+Respuesta desde 196.216.3.4: bytes=32 tiempo=464ms TTL=42
+Respuesta desde 196.216.3.4: bytes=32 tiempo=480ms TTL=42
+Respuesta desde 196.216.3.4: bytes=32 tiempo=479ms TTL=42
+Respuesta desde 196.216.3.4: bytes=32 tiempo=469ms TTL=42
+Respuesta desde 196.216.3.4: bytes=32 tiempo=476ms TTL=42
+Respuesta desde 196.216.3.4: bytes=32 tiempo=478ms TTL=42
+Respuesta desde 196.216.3.4: bytes=32 tiempo=464ms TTL=42
+Respuesta desde 196.216.3.4: bytes=32 tiempo=468ms TTL=42
+Respuesta desde 196.216.3.4: bytes=32 tiempo=476ms TTL=42
+Respuesta desde 196.216.3.4: bytes=32 tiempo=471ms TTL=42
+Respuesta desde 196.216.3.4: bytes=32 tiempo=473ms TTL=42
+Respuesta desde 196.216.3.4: bytes=32 tiempo=468ms TTL=42
+Respuesta desde 196.216.3.4: bytes=32 tiempo=467ms TTL=42
+Respuesta desde 196.216.3.4: bytes=32 tiempo=474ms TTL=42
+Respuesta desde 196.216.3.4: bytes=32 tiempo=475ms TTL=42
+Respuesta desde 196.216.3.4: bytes=32 tiempo=468ms TTL=42
+Respuesta desde 196.216.3.4: bytes=32 tiempo=472ms TTL=42
+Respuesta desde 196.216.3.4: bytes=32 tiempo=485ms TTL=42
+Respuesta desde 196.216.3.4: bytes=32 tiempo=498ms TTL=42
+Respuesta desde 196.216.3.4: bytes=32 tiempo=469ms TTL=42
+
+Estad sticas de ping para 196.216.3.4:
+    Paquetes: enviados = 25, recibidos = 25, perdidos = 0
+    (0% perdidos),
+Tiempos aproximados de ida y vuelta en milisegundos:
+    M nimo = 464ms, M ximo = 498ms, Media = 474ms
+
+
+
+
+--------------------apnic.txt--------------------
+
+Haciendo ping a www.apnic.net.cdn.cloudflare.net [104.18.235.68] con 32 bytes de datos:
+Respuesta desde 104.18.235.68: bytes=32 tiempo=91ms TTL=57
+Respuesta desde 104.18.235.68: bytes=32 tiempo=82ms TTL=57
+Respuesta desde 104.18.235.68: bytes=32 tiempo=65ms TTL=57
+Respuesta desde 104.18.235.68: bytes=32 tiempo=64ms TTL=57
+Respuesta desde 104.18.235.68: bytes=32 tiempo=67ms TTL=57
+Respuesta desde 104.18.235.68: bytes=32 tiempo=69ms TTL=57
+Respuesta desde 104.18.235.68: bytes=32 tiempo=65ms TTL=57
+Respuesta desde 104.18.235.68: bytes=32 tiempo=72ms TTL=57
+Respuesta desde 104.18.235.68: bytes=32 tiempo=69ms TTL=57
+Respuesta desde 104.18.235.68: bytes=32 tiempo=73ms TTL=57
+Respuesta desde 104.18.235.68: bytes=32 tiempo=76ms TTL=57
+Respuesta desde 104.18.235.68: bytes=32 tiempo=82ms TTL=57
+Respuesta desde 104.18.235.68: bytes=32 tiempo=71ms TTL=57
+Respuesta desde 104.18.235.68: bytes=32 tiempo=69ms TTL=57
+Respuesta desde 104.18.235.68: bytes=32 tiempo=71ms TTL=57
+Respuesta desde 104.18.235.68: bytes=32 tiempo=79ms TTL=57
+Respuesta desde 104.18.235.68: bytes=32 tiempo=69ms TTL=57
+Respuesta desde 104.18.235.68: bytes=32 tiempo=88ms TTL=57
+Respuesta desde 104.18.235.68: bytes=32 tiempo=81ms TTL=57
+Respuesta desde 104.18.235.68: bytes=32 tiempo=81ms TTL=57
+Respuesta desde 104.18.235.68: bytes=32 tiempo=73ms TTL=57
+Respuesta desde 104.18.235.68: bytes=32 tiempo=116ms TTL=57
+Respuesta desde 104.18.235.68: bytes=32 tiempo=77ms TTL=57
+Respuesta desde 104.18.235.68: bytes=32 tiempo=68ms TTL=57
+Respuesta desde 104.18.235.68: bytes=32 tiempo=76ms TTL=57
+
+Estadísticas de ping para 104.18.235.68:
+    Paquetes: enviados = 25, recibidos = 25, perdidos = 0
+    (0% perdidos),
+Tiempos aproximados de ida y vuelta en milisegundos:
+    Mínimo = 64ms, Máximo = 116ms, Media = 75ms
+
 
